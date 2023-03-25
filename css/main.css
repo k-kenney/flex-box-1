@@ -109,6 +109,10 @@ body {
   height: 100%;
 }
 
+.header {
+  color: white;
+}
+
 .wrapper {
   display: flex;
   flex-flow: row wrap;
@@ -132,6 +136,12 @@ body {
 .div-1, .div-2 {
   border-right: 2px solid gray;
 
+}
+
+.footer-img .fa{
+  padding: 5px;
+  font-size:30px;
+  color: white;
 }
 
 
